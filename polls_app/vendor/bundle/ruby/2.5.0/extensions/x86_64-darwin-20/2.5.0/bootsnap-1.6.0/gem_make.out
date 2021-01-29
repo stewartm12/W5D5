@@ -1,0 +1,15 @@
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.6.0/ext/bootsnap
+/Users/lakhteagha/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20210129-8614-102jnax.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.6.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.6.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.6.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210129-8614-13jktpe/bootsnap

@@ -1,0 +1,15 @@
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/lakhteagha/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20210129-8614-19w7egg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/lakhteagha/Desktop/AAClasswork/W5D5/polls_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210129-8614-lj96i5/skiptrace/internal
